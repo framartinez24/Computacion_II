@@ -1,0 +1,10 @@
+
+aiohttp
+beautifulsoup4
+lxml
+Pillow
+aiofiles
+# Optional for real screenshots (choose one):
+# selenium
+# webdriver-manager
+# playwright
